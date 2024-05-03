@@ -34,6 +34,7 @@ def main():
     Employee Benefits: list = ['Insurance', 'Flexible Schedule']
     Services Offered: list = ['Artificial Intelligence', 'Data Science & Analysis', 'Machine Learning engineering']
     Customer Satisfaction: {customer_satisfaction} Out of 10!
+    service_pricing: list = [300, 900, 200]
     """
 
 #Prices for services offered
